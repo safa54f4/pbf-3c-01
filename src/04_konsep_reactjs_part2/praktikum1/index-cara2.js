@@ -1,0 +1,39 @@
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
+
+// Cara 1: membuat toggle button
+class Toggle extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { isToggleOn: true };
+
+    // binding ini dibutuhkan agar dapat bekerja ketika pemanggilan
+    handleClick = () => {
+      this.setState(state => ({
+        isToggleOn: !state.isToggleOn
+      }));
+    }
+  }
+
+  handleClick () {
+    this.setState(state => ({
+      isToggleOn: !state.isToggleOn
+    }));
+  }
+
+  render () {
+    return (
+      <button onClick={this.handleClick}>
+        {this.state.isToggleOn ? 'ON - 1941723012' : 'OFF - A.SAFA DHIATA'}
+      </button>
+    );
+  }
+}
+
+ReactDOM.render(
+  <Toggle />,
+  document.getElementById('root')
+);
