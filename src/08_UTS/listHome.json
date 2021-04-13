@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "img/2.jpg",
+      "price": 50000,
+      "content": "pellentesque eu, pretium quissem"
+    },
+    {
+      "id": 2,
+      "image": "img/2.jpg",
+      "price": 34000,
+      "content": "pellentesque eu, pretium quissem"
+    },
+    {
+      "id": 3,
+      "image": "img/2.jpg",
+      "price": 65000,
+      "content": "pellentesque eu, pretium quissem"
+    },
+    {
+      "id": 4,
+      "image": "img/2.jpg",
+      "price": 20000,
+      "content": "pellentesque eu, pretium quissem"
+    },
+    {
+      "id": 5,
+      "image": "img/2.jpg",
+      "price": 134000,
+      "content": "pellentesque eu, pretium quissem"
+    },
+    {
+      "id": 6,
+      "image": "img/2.jpg",
+      "price": 55000,
+      "content": "pellentesque eu, pretium quissem"
+    },
+    {
+      "id": 7,
+      "image": "img/2.jpg",
+      "price": 20000,
+      "content": "pellentesque eu, pretium quissem"
+    },
+    {
+      "id": 8,
+      "image": "img/2.jpg",
+      "price": 134000,
+      "content": "pellentesque eu, pretium quissem"
+    },
+    {
+      "id": 9,
+      "image": "img/2.jpg",
+      "price": 55000,
+      "content": "pellentesque eu, pretium quissem"
+    }
+  ],
+  "services":[
+    {
+      "id":1,
+      "title":"MORBI ACCUMSAN",
+      "content":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagiittis sem nibh id elit. Duis sed odio sit amet nibh.a sit amet mauris um auctor, nisi elit. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio"
+    },
+    {
+      "id":2,
+      "title":"GRAVITA VELIT",
+      "content":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagiittis sem nibh id elit. Duis sed odio sit amet nibh.a sit amet mauris um auctor, nisi elit. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio"
+    },
+    {
+      "id":3,
+      "title":"AENEAN CONSEQUAT",
+      "content":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagiittis sem nibh id elit. Duis sed odio sit amet nibh.a sit amet mauris um auctor, nisi elit. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio"
+    },
+    {
+      "id":4,
+      "title":"DUIS SEDODIO",
+      "content":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagiittis sem nibh id elit. Duis sed odio sit amet nibh.a sit amet mauris um auctor, nisi elit. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio"
+    }
+  ],
+  "gallery":[
+    {
+      "id":1,
+      "title":"A Class",
+      "img":"img/gallery/0.jpg"
+    },
+    {
+      "id":2,
+      "title":"B Class",
+      "img":"img/gallery/1.jpg"
+    },
+    {
+      "id":3,
+      "title":"C Class",
+      "img":"img/gallery/0.jpg"
+    },
+    {
+      "id":4,
+      "title":"D Class",
+      "img":"img/gallery/1.jpg"
+    },
+    {
+      "id":5,
+      "title":"E Class",
+      "img":"img/gallery/0.jpg"
+    },
+    {
+      "id":6,
+      "title":"F Class",
+      "img":"img/gallery/1.jpg"
+    },
+    {
+      "id":7,
+      "title":"G Class",
+      "img":"img/gallery/0.jpg"
+    },
+    {
+      "id":8,
+      "title":"Benz",
+      "img":"img/gallery/1.jpg"
+    },
+    {
+      "id":9,
+      "title":"Benz",
+      "img":"img/gallery/0.jpg"
+    }
+  ]
+}
