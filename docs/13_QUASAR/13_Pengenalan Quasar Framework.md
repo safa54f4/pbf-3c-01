@@ -11,20 +11,20 @@
 
         a. Konfigurasi
 
-        ![SS-1-1-1](img/1/buat1.jpg)
+        ![SS-1-1-1](img/1/buat1.JPG)
 
-        ![SS-1-1-2](img/1/buat2.jpg)
+        ![SS-1-1-2](img/1/buat2.JPG)
 
     2. Praktikum 2
 
         a. index
 
-        ![SS-1-1-3](img/2/index.jpg)
+        ![SS-1-1-3](img/2/index.JPG)
 
 2. Hasil Tampilan
 
     1. Praktikum 2
 
-        ![SS-2-1](img/2/hasil2.jpg)
+        ![SS-2-1](img/2/hasil2.JPG)
 
 3. Tugas
