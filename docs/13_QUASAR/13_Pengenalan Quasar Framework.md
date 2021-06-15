@@ -19,7 +19,7 @@
 
         a. index
 
-        ![SS-1-1-3](img/2/index.JPG)
+        ![SS-1-1-3](img/2/index.jpg)
 
 2. Hasil Tampilan
 
