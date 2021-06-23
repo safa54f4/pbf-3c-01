@@ -62,13 +62,8 @@
     3. Praktikum 4
         ![SS-2-3]
 
-### Praktikum 3: Membuat Fungsi Hapus Artikel
 
-`Screenshot:`
-
-![Praktikum 3](img/Screenshot_3.png)
-
-### Praktikum 4: Membuat Fungsi Edit (Update) Artikel
+### Praktikum: Membuat Fungsi Edit (Update) Artikel
 
 `Screenshot:`
 
