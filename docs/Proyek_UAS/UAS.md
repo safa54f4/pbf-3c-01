@@ -5,7 +5,7 @@
 | No  | Judul                           | Penjelasan                                                                                                    | Link                                             |
 | --- | ------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | 1   | 01_pengantar                    | Mahasiswa paham dengan konsep modern javascript Mahasiswa dapat membuat variabel dan parameter lainnya        | [Buka](../01_pengantar/01.md)                    |
-| 2   | 02_hello_world                  | Mahasiswa paham dengan konsep ReactJS dan membuat project menggunakan ReactJS                                 | [Buka](../02_hello_world   /02.md)                    |
+| 2   | 02_hello_world                  | Mahasiswa paham dengan konsep ReactJS dan membuat project menggunakan ReactJS                                 | [Buka](../02_hello_world/02.md)                    |
 | 3   | 03_konsep_reactjs               | Mahasiswa paham dengan konsep dan komponen dalam reactJS                                                      | [Buka](../03_Konsep_React.js/03.md)               |
 | 4   | 04_konsep_reactjs_part2         | Mahasiswa paham dengan konsep interaksi didalam reactJS                                                       | [Buka](../04_konsep_React.js_v2/04.md)         |
 | 5   | 05_api_router_reactjs           | Mahasiswa paham dengan cara instalasi reactrouter, Mahasiswa dapat mengetahui konsep reactrouter              | [Buka](../05_API_dan_React_Router_di_ReactJS/05.md)           |
