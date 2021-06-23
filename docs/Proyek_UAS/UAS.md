@@ -1,4 +1,6 @@
-#<p align="center">**Pemrograman Berbasis Framework, Jurusan Teknologi Informasi, Polinema**</p>
+# <p align="center">**Pemrograman Berbasis Framework **
+# **Jurusan Teknologi Informasi
+# **Polinema**</p>
 
 # <p align="center"> **PROYEK UAS**</p>
 # Mata Kuliah  
