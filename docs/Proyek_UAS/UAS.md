@@ -5,12 +5,12 @@
 | No  | Judul                           | Penjelasan                                                                                                    | Link                                             |
 | --- | ------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | 1   | 01_pengantar                    | Mahasiswa paham dengan konsep modern javascript Mahasiswa dapat membuat variabel dan parameter lainnya        | [Buka](../01_pengantar/01.md)                    |
-| 2   | 02_hello_world                  | Mahasiswa paham dengan konsep ReactJS dan membuat project menggunakan ReactJS                                 | [Buka](../01_pengantar/02.md)                    |
-| 3   | 03_konsep_reactjs               | Mahasiswa paham dengan konsep dan komponen dalam reactJS                                                      | [Buka](../03_konsep_reactjs/03.md)               |
-| 4   | 04_konsep_reactjs_part2         | Mahasiswa paham dengan konsep interaksi didalam reactJS                                                       | [Buka](../04_konsep_reactjs_part2/04.md)         |
-| 5   | 05_api_router_reactjs           | Mahasiswa paham dengan cara instalasi reactrouter, Mahasiswa dapat mengetahui konsep reactrouter              | [Buka](../05_api_router_reactjs/05.md)           |
-| 6   | 06_redux                        | Mahasiswa dapat memahami konsep state management dalam redux, Mahasiswa dapat menerapkan redux dalam reactapp | [Buka](../06_redux/06.md)                        |
-| 7   | 07_context_hoc                  | Mahasiswa mengetahui dan memahami konsep redux dalam reactApp, State management dengan context API            | [Buka](../07_context_hoc/07.md)                  |
+| 2   | 02_hello_world                  | Mahasiswa paham dengan konsep ReactJS dan membuat project menggunakan ReactJS                                 | [Buka](../02_hello_world   /02.md)                    |
+| 3   | 03_konsep_reactjs               | Mahasiswa paham dengan konsep dan komponen dalam reactJS                                                      | [Buka](../03_Konsep_React.js/03.md)               |
+| 4   | 04_konsep_reactjs_part2         | Mahasiswa paham dengan konsep interaksi didalam reactJS                                                       | [Buka](../04_konsep_React.js_v2/04.md)         |
+| 5   | 05_api_router_reactjs           | Mahasiswa paham dengan cara instalasi reactrouter, Mahasiswa dapat mengetahui konsep reactrouter              | [Buka](../05_API_dan_React_Router_di_ReactJS/05.md)           |
+| 6   | 06_redux                        | Mahasiswa dapat memahami konsep state management dalam redux, Mahasiswa dapat menerapkan redux dalam reactapp | [Buka](../06_React_Redux/06.md)                        |
+| 7   | 07_context_hoc                  | Mahasiswa mengetahui dan memahami konsep redux dalam reactApp, State management dengan context API            | [Buka](../07_Context_dan_HOC/07.md)                  |
 | 8   | 08_UTS                          | UTS                                                                                                           | [Buka](../08_UTS/08.md)                          |
 | 9   | 09_global_api_hooks             | Mahasiswa mengetahui dan memahami konsep Global API                                                           | [Buka](../09_global_api_hooks/09.md)             |
 | 10  | 10_firebase_reactjs             | Mahasiswa mengetahui dan memahami konsep firebase, Mahasiswa dapat membuat firebase sendiri                   | [Buka](../10_firebase_reactjs/10.md)             |
