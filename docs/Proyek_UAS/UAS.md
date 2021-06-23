@@ -1,4 +1,4 @@
-# _____________________PROYEK UAS__________________
+# <p align="center"> PROYEK UAS</p>
 
 ---
 
