@@ -1,6 +1,7 @@
 
 # <p align="center"> **PROYEK UAS**</p>
-Mata Kuliah : Pemrograman Berbasis Framework, Jurusan Teknologi Informasi, Polinema
+# Mata Kuliah  
+<p align="center">Pemrograman Berbasis Framework, Jurusan Teknologi Informasi, Polinema</p>
 
 Dosen Pengampu : Habibie Ed Dien, S.Kom., M.T.
 
