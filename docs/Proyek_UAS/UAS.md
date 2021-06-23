@@ -19,8 +19,8 @@
 | 13  | 13_quasar                       | Pengenalan dan instalasi Quasar Framework                                                                     | [Buka](../13_quasar/13.md)                       |
 | 14  | 14_quasar_directives_components | Pengenalan Quasar Directives dan Quasar Components                                                            | [Buka](../14_quasar_directives_components/14.md) |
 
-#KESIMPULAN
+# KESIMPULAN
 untuk pelajaran react sendiri sudah cukup bagus tetapi sayang nya hanya belajar di bagian dasar nya saja
 
-#MASUKAN UNTUK DOSEN
+# MASUKAN UNTUK DOSEN
 `menurut saya cara mengajar pak habibie sudah yang terbaik dari semua dosen, mulai dari deadline jobsheet yang lebih dari satu minggu sehingga memudahkan saya dalam pengerjaan di karenakan ada beberapa tugas dari mata kuliah lain yang harus di kumpulkan secepat nya, untuk cara menjelaskan pak habibie masih yang terbaik karena menuntun mahasiswa dari yang tidak bisa hingga bisa, untuk code labs yang bapak berikan setiap pertemuan munurut saya mudah untuk di pahami dan mudah untuk di ikuti step by step nya,` semoga saya tidak dapat nilai C di mata kuliah ini:)
