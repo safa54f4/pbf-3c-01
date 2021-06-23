@@ -18,3 +18,9 @@
 | 12  | 12_crud_firebase                | Mahasiswa paham dengan konsep firebase, Mahasiswa dapat melakukan CRUD pada firebase                          | [Buka](../12_crud_firebase/12.md)                |
 | 13  | 13_quasar                       | Pengenalan dan instalasi Quasar Framework                                                                     | [Buka](../13_quasar/13.md)                       |
 | 14  | 14_quasar_directives_components | Pengenalan Quasar Directives dan Quasar Components                                                            | [Buka](../14_quasar_directives_components/14.md) |
+
+##kesimpulan
+untuk pelajaran react sendiri sudah cukup bagus tetapi sayang nya hanya belajar di bagian dasar nya saja
+
+##Masukan Untuk Dosen
+menurut saya cara mengajar pak habibie sudah yang terbaik dari semua dosen, mulai dari deadline jobsheet yang lebih dari satu minggu sehingga memudahkan saya dalam pengerjaan di karenakan ada beberapa tugas dari mata kuliah lain yang harus di kumpulkan secepat nya, untuk cara menjelaskan pak habibie masih yang terbaik karena menuntun mahasiswa dari yang tidak bisa hingga bisa, untuk code labs yang bapak berikan setiap pertemuan munurut saya mudah untuk di pahami dan mudah untuk di ikuti step by step nya, semoga saya tidak dapat nilai C di mata kuliah ini:)
