@@ -1,6 +1,15 @@
 
 # <p align="center"> **PROYEK UAS**</p>
+Mata Kuliah : Pemrograman Berbasis Framework, Jurusan Teknologi Informasi, Polinema
 
+Dosen Pengampu : Habibie Ed Dien, S.Kom., M.T.
+
+# Identitas Mahasiswa
+NIM : 1941723012
+
+Nama : A.SAFA DHIATA
+
+Kelas : TI-3C
 ---
 
 | No  | Judul                           | Penjelasan                                                                                                    | Link                                             |
